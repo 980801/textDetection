@@ -3,6 +3,7 @@
 
 ### 1. 下载：
 #### 请使用git下载，否则模型文件可能会下载出错
+***
 
 ### 2. 用conda创建虚拟环境:
 #### conda create -n textDetection python=3.6.4
